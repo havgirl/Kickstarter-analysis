@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The concept behind this project is to evaluate kickstart data, and determine how different campaigns fared in relation to competing campaigns. Utilizing data provided including category, country, launch dates and funding goals/outcomes provides us with insightful guidance for future campaigns.  The purpose of this exercise, specifically, is to evaluate the outcomes based on launch date and goals that will provide our client (Louise) with insightful data for running successful subsequent fundraising campaigns.
+The concept behind this project is to evaluate Kickstarter data, and determine how different campaigns fared in relation to competing campaigns. Utilizing data provided including category, country, launch dates and funding goals/outcomes provides us with insightful guidance for future campaigns.  The purpose of this exercise, specifically, is to evaluate the outcomes based on launch date and goals that will provide our client (Louise) with insightful data for running successful subsequent fundraising campaigns.
 
 ## Analysis and Challenges
 
