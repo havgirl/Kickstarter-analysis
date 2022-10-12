@@ -14,7 +14,7 @@ This analysis demonstrates a comparison of outcomes (successful, failed, cancele
 
 
 ### Analysis of Outcomes Based on Goals
-This analysis provides a percentage rate for each outcome (success/failure) for each incremental goal threshold.
+This analysis provides a percentage rate of success/failure for each outcome at every each incremental goal threshold.
 
 ![https://github.com/havgirl/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png](https://github.com/havgirl/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
