@@ -8,7 +8,7 @@ The concept behind this project is to evaluate kickstart data, and determine how
 ## Analysis and Challenges
 
 ### Analysis of Theater Outcomes Based on Launch Date
-This analysis demonstrates a comparison of outcomes (succesful, failed, canceled) by month of year.
+This analysis demonstrates a comparison of outcomes (successful, failed, canceled) by month of year.
 
 ![https://github.com/havgirl/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png](https://github.com/havgirl/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
