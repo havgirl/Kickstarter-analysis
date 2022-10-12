@@ -14,7 +14,7 @@ This analysis demonstrates a comparison of outcomes (successful, failed, cancele
 
 
 ### Analysis of Outcomes Based on Goals
-This analysis provided a comparison of outcomes categorized by goal (first increment of 1000, then plus 5000 each additional increment), and includes a percentage rate for success/failure within each increment.
+This analysis provides a percentage rate for each outcome (success/failure) for each incremental goal threshold.
 
 ![https://github.com/havgirl/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png](https://github.com/havgirl/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
