@@ -14,7 +14,7 @@ This analysis demonstrates a comparison of outcomes (successful, failed, cancele
 
 
 ### Analysis of Outcomes Based on Goals
-This analysis provides a percentage rate of success/failure for each outcome at every each incremental goal threshold.
+This analysis provides a percentage rate of success/failure at each incremental goal threshold.
 
 ![https://github.com/havgirl/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png](https://github.com/havgirl/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
@@ -35,13 +35,13 @@ This analysis provides a percentage rate of success/failure for each outcome at 
 - Campaigns that had a goal range less than $5,000 were the most successful, with a 76% success rate for projects less that 1000 and 73% for projects with a goal between 1000 and 4999.
 
 ### Limitations of this dataset
-Additional information could provide us with more context on why campaigns were sucessful and would assist in the analysis and recommendation process.  Examples include:
+Additional information could provide us with more context on why campaigns were successful and would assist in the analysis and recommendation process.  Examples include:
 - Methods for advertising and circulating the campaigns were unknown
 - The use of gifts to donors who pledged or exceeded a $ threshold were unknown
 - The location within each country was unknown (city vs country, for example, could yield different results)
 
 ### Recommendations for additional tables or graphs
-- Trend graph depicting outcome by year
+- Trend graph depicting outcome by year filtered by category
 - Bar graph showing outcome by category and/or by country
 - Table/graph demonstrating average donation by category
 
