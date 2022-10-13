@@ -18,7 +18,7 @@ Values: Count of name
 
 
 ### Analysis of Outcomes Based on Goals
-This analysis provides a percentage rate of success/failure at each incremental goal threshold. This was calculated by creating a table utilizing "workbench.colorCustomizations":{"editor.linehighlightborder": "#ffffff70"countifs()} formulas to hone in on goal threshold, outcome and subcategory criteria.  Additionally sum and percent formulas were used.
+This analysis provides a percentage rate of success/failure at each incremental goal threshold. This was calculated by creating a table utilizing **countifs()** formulas to hone in on goal threshold, outcome and subcategory criteria.  Additionally **sum** and **percent** formulas were used.
 
 ![https://github.com/havgirl/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png](https://github.com/havgirl/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
