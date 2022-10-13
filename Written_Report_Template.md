@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The concept behind this project is to evaluate Kickstarter data, and determine how different campaigns fared in relation to competing campaigns. Utilizing data provided including category, country, launch dates and funding goals/outcomes provides us with insightful guidance for future campaigns.  The purpose of this exercise, specifically, is to evaluate the outcomes based on launch date and goals that will provide our client (Louise) with insightful data for running successful subsequent fundraising campaigns.
+The concept behind this project is to evaluate Kickstarter data, and determine how different campaigns fared in relation to competing campaigns. Analyzing data provided including category, country, launch dates and funding goals/outcomes provides us with insightful guidance for future campaigns.  The purpose of this exercise, specifically, is to evaluate the outcomes based on launch date and goals that will provide our client (Louise) with insightful data for running successful subsequent fundraising campaigns.
 
 ## Analysis and Challenges
 
@@ -14,7 +14,7 @@ This analysis demonstrates a comparison of outcomes (successful, failed, cancele
 
 
 ### Analysis of Outcomes Based on Goals
-This analysis provides a percentage rate of success/failure at each incremental goal threshold. This was calculated by creating a table utilizing **<sub>countifs()</sub>** formulas to hone in on goal threshold, outcome and subcategory criteria.  Additionally **_sum()_** and percent formulas were used.
+This analysis provides a percentage rate of success/failure at each incremental goal threshold. This was calculated by creating a table utilizing **countifs()** formulas to hone in on goal threshold, outcome and subcategory criteria.  Additionally **_sum()_** and percent formulas were used.
 
 ![https://github.com/havgirl/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png](https://github.com/havgirl/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
