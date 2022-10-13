@@ -32,11 +32,11 @@ This analysis provides a percentage rate of success/failure at each incremental 
 ## Results
 
 ### Theater Outcomes by Launch Date - Conclusions
-- Campaigns created in May had the highest volume of successful Theater outcomes
+- Campaigns created in May had the highest volume of successful theater outcomes
 - The least amount of campaigns were kickstarted in December, which also yielded the hightest percentage rate of failures 
  
 ### Outcomes Based on Goals - Conclusion
-- Campaigns that had a goal range less than $5,000 were the most successful, with a 76% success rate for projects less that 1000 and 73% for projects with a goal between 1000 and 4999.
+- Campaigns that had a goal range less than $5,000 were the most successful, with a 76% success rate for projects less that $1,000 and 73% for projects with a goal between $1,000 and $4,999.
 
 ### Limitations of this dataset
 Additional information could provide us with more context on why campaigns were successful and would assist in the analysis and recommendation process.  Examples include:
