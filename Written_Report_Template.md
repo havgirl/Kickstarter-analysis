@@ -8,13 +8,17 @@ The concept behind this project is to evaluate Kickstarter data, and determine h
 ## Analysis and Challenges
 
 ### Analysis of Theater Outcomes Based on Launch Date
-This analysis demonstrates a comparison of outcomes (successful, failed, canceled) by month of year.
+This analysis demonstrates a comparison of outcomes (successful, failed, canceled) by month of year.  This was achieved by creating a pivot table organized as follows:
+Filters: Parent Category/Theater, Year
+Rows: Date Created Conversion, by Month
+Columns: Outcomes
+Values: Count of name
 
 ![https://github.com/havgirl/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png](https://github.com/havgirl/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
-This analysis provides a percentage rate of success/failure at each incremental goal threshold.
+This analysis provides a percentage rate of success/failure at each incremental goal threshold. This was calculated by creating a table utilizing "workbench.colorCustomizations":{"editor.linehighlightborder": "#ffffff70"countifs()} formulas to hone in on goal threshold, outcome and subcategory criteria.  Additionally sum and percent formulas were used.
 
 ![https://github.com/havgirl/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png](https://github.com/havgirl/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
@@ -41,8 +45,8 @@ Additional information could provide us with more context on why campaigns were 
 - The location within each country was unknown (city vs country, for example, could yield different results)
 
 ### Recommendations for additional tables or graphs
-- Trend graph depicting outcome by year filtered by category
-- Bar graph showing outcome by category and/or by country
-- Table/graph demonstrating average donation by category
+- [ ] Trend graph depicting outcome by year filtered by category
+- [ ] Bar graph showing outcome by category and/or by country
+- [ ] Table/graph demonstrating average donation by category
 
     
