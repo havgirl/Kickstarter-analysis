@@ -8,7 +8,7 @@ The concept behind this project is to evaluate Kickstarter data, and determine h
 ## Analysis and Challenges
 
 ### Analysis of Theater Outcomes Based on Launch Date
-This analysis demonstrates a comparison of outcomes (successful, failed, canceled) by month of year and references a pivot table which had been filtered on critical data points including: Parent Category, Date Created Conversion (by Month), Outcomes and a Count of Campaigns (name).
+This analysis demonstrates a comparison of outcomes (successful, failed, canceled) by month of year and references a pivot table which had been filtered on critical data points including: Parent Category, Date Created Conversion (by Month), Outcomes and a Count of Campaign names.
 
 ![https://github.com/havgirl/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png](https://github.com/havgirl/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
